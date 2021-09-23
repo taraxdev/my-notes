@@ -1,7 +1,7 @@
 # <center> HashMap </center>
 - doesn't have order
 - HashMap is similar to HashTable, but it is unsynchronized.
-![](https://javatutorial.net/wp-content/uploads/2017/09/java-initialize-hashmap-1280x720.png)
+<img src = "https://javatutorial.net/wp-content/uploads/2017/09/java-initialize-hashmap-1280x720.png" width="500">
 
 ```
 import java.util.HashMap;
