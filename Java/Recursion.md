@@ -4,7 +4,7 @@
 <img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/recursion_2.jpg" width="500">
 
 ### Find the nth fibonacii number
-```
+``` java
 public class notes{
   public static void main(String [] args){
     System.out.print(fibo(9));
@@ -24,7 +24,7 @@ public class notes{
 
 ### Binary Search with Recursion
 
-```
+``` java
 public class notes{
   public static void main(String [] args){
     int[] arr = {15,23,54,65,87};
