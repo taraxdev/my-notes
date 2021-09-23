@@ -1,8 +1,7 @@
 <h1 align = "center"> Recursion </h1>
 <p align = "center">
-<img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/recursion_1.jpg" width="500">
+<img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/recursion_1.jpg" width="500"> </br>
 <img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/recursion_2.jpg" width="500">
-</p>
 
 ### Find the nth fibonacii number
 ```
