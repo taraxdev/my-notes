@@ -1,4 +1,4 @@
-# <center> HashMap </center>
+# <h1 align = "center"> HashMap </h1>
 - doesn't have order
 - HashMap is similar to HashTable, but it is unsynchronized.
 <img src = "https://javatutorial.net/wp-content/uploads/2017/09/java-initialize-hashmap-1280x720.png" width="500">
