@@ -1,9 +1,9 @@
 <h2> Summary </h2>
 
 - [Binary Search](https://github.com/taraxdev/my-notes/new/master#-binary-search-)
-	- [Explanation]()
+	- [Explanation](https://github.com/taraxdev/my-notes/blob/master/Java/Binary%20Search.md#explanation)
 - [Time complexity](https://github.com/taraxdev/my-notes/new/master#-time-and-space-complexity-)
-	- [Derive]()
+	- [Derive](https://github.com/taraxdev/my-notes/blob/master/Java/Binary%20Search.md#derive)
 - [Binary Search with Recursion](https://github.com/taraxdev/my-notes/new/master#binary-search-with-recursion)
 
 <h1 align = "center"> Binary Search </h1>
