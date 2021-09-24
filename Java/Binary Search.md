@@ -1,7 +1,9 @@
 <h2> Summary </h2>
 
 - [Binary Search](https://github.com/taraxdev/my-notes/new/master#-binary-search-)
+	- [Explanation]()
 - [Time complexity](https://github.com/taraxdev/my-notes/new/master#-time-and-space-complexity-)
+	- [Derive]()
 - [Binary Search with Recursion](https://github.com/taraxdev/my-notes/new/master#binary-search-with-recursion)
 
 <h1 align = "center"> Binary Search </h1>
@@ -10,10 +12,18 @@
 
 - Binary search is an efficient algorithm for finding an item from a sorted list of items.
 
+<h2>Explanation</h2>
+
+<img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/binarysearch1.png" width="500">
+
 <h2> Time and Space complexity </h2>
 
 - The best-case time complexity → <b>O(1)</b> <i> when the central index would directly match the desired value.</i>
 - The worst-case time complexity  → <b>O(log n)</b>. 
+
+<h3>Derive</h3>
+
+<img src = "https://github.com/taraxdev/my-notes/blob/master/Java/assets/binarysearch2.png" width="500">
 
 ```java
 public class binary {
