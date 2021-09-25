@@ -5,6 +5,7 @@
 - [Time complexity](https://github.com/taraxdev/my-notes/new/master#-time-and-space-complexity-)
 	- [Derive](https://github.com/taraxdev/my-notes/blob/master/Java/Binary%20Search.md#derive)
 - [Binary Search with Recursion](https://github.com/taraxdev/my-notes/new/master#binary-search-with-recursion)
+- [Questions](https://github.com/taraxdev/my-notes/new/master#-questions-)
 
 <h1 align = "center"> Binary Search </h1>
 
@@ -78,3 +79,5 @@ public class notes{
   }
 }
 ```
+
+<h1 > Questions </h1>
