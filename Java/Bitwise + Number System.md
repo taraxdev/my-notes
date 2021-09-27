@@ -71,7 +71,7 @@
 
 <h3 align = "center"> Number System Conversion  </h3>
 
-<h4>  1) Decimal to Base b </h4>
+<h3>  1) Decimal to Base b </h3>
 
 <b>Q) Convert (17)<sub>10</sub> to base 2 </b>
 
@@ -87,14 +87,26 @@
 
 <h3> (1001) <sub>2</sub> = (17) <sub>10</sub> </h3>
 
+<b>Q) Convert (17)<sub>10</sub> to base 8 </b>
+
+```
+
+  8|_ 17--  |remainder
+  2|_ 2 ->  |1
+
+```
+
+<h3> (21) <sub>8</sub> = (17) <sub>10</sub> </h3>
+
 ####################################################################
 
-2) Base b to Decimal
+<h3> 2) Base b to Decimal </h3>
 
-<!-- <h2 > Operators </h2>
-<h2 > Operators </h2>
-<h2 > Operators </h2>
-<h2 > Operators </h2> -->
+> Multiply and add the power of base with digits.
 
+<b>Q) Convert base (10001)sub>2</sub> to base 10 </b>
+
+<h3> 1 * 2<sup>4</sup> + 0 * 2<sup>3</sup> + 0 * 2<sup>2</sup> + 0 * 2<sup>1</sup> + 1 * 2<sup>0 </sup> </h3>
+<h3> 16 + 0 + 0 + 0 + 1  => (17)<sub>10</sub> </h3>
 
 <h1 align = "center"> Questions </h1>
