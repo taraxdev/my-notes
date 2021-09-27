@@ -35,6 +35,18 @@
 
 - a = 10110
 
+<h4> Left Shift Operator (<<) </h4>
+  
+ Q) 1010 << 1 ==> 10100
+ 
+  ```  a << 1 = 2a ``` <br>
+  ```  a << b = a*2^b ``` 
+  
+<h4> Right Shift Operator (>>) </h4>
+
+ Q) 0011001 >> 1 ==> 00100
+ 
+  ``` a >> b = a/2^b ``` 
 
 <h1 align = "center"> Number System </h1>
 
@@ -106,7 +118,12 @@
 
 <b>Q) Convert base (10001)sub>2</sub> to base 10 </b>
 
-<h3> 1 * 2<sup>4</sup> + 0 * 2<sup>3</sup> + 0 * 2<sup>2</sup> + 0 * 2<sup>1</sup> + 1 * 2<sup>0 </sup> </h3>
-<h3> 16 + 0 + 0 + 0 + 1  => (17)<sub>10</sub> </h3>
+ <h3>= (1 * 2<sup>4</sup>) + (0 * 2<sup>3</sup>) + (0 * 2<sup>2</sup>) + (0 * 2<sup>1</sup>) + (1 * 2<sup>0 </sup>) </h3>
+ <h3>= 16 + 0 + 0 + 0 + 1  => (17)<sub>10</sub> </h3>
+ 
+ <b>Q) Convert base (21)sub>8</sub> to base 10 </b>
 
+ <h3>= (2 * 8<sup>1</sup>) + (1 * 8<sup>0 </sup>) </h3>
+ <h3>= 16 + 1  => (17)<sub>10</sub> </h3>
+  
 <h1 align = "center"> Questions </h1>
