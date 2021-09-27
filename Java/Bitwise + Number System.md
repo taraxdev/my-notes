@@ -1,24 +1,26 @@
 <h1>Summary</h1>
 
--[Bitwise](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-bitwise-)
-  -[Operators](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-operators-)
-    -[AND](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-and-)
-    -[OR](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-or-)
-    -[XOR](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-xor-)
-    -[Complement](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-complement-)
-    -[Left Shift Operator](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-left-shift-operator--)
-    -[Right Shift Operator](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-right-shift-operator--)
--[Number System](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-number-system-)
-  -[Decimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-decimal-)
-  -[Binary](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-binary-)
-  -[Octal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-octal-)
-  -[Hexadecimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-hexadecimal-)
--[Number System Conversion](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-number-system-conversion--)
-  -[Decimal to base](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#--1-decimal-to-base-b-)  
-  -[Base to decimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-2-base-b-to-decimal-)
+- [Bitwise](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-bitwise-)
+  - [Operators](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-operators-)
+    - [AND](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-and-)
+    - [OR](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-or-)
+    - [XOR](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-xor-)
+    - [Complement](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-complement-)
+    - [Left Shift Operator](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-left-shift-operator--)
+    - [Right Shift Operator](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-right-shift-operator--)
+- [Number System](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-number-system-)
+  - [Decimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-decimal-)
+  - [Binary](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-binary-)
+  - [Octal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-octal-)
+  - [Hexadecimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-hexadecimal-)
+- [Number System Conversion](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-number-system-conversion--)
+  - [Decimal to base](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#--1-decimal-to-base-b-)  
+  - [Base to decimal](https://github.com/taraxdev/my-notes/blob/master/Java/Bitwise%20+%20Number%20System.md#-2-base-b-to-decimal-)
     
     
 <h1 align = "center"> Bitwise </h1>
+
+> Bitwise is a level of operations that involves working with individual bits, which are the smallest units of data in a computer. 
 
 <h2 > Operators </h2>
 
