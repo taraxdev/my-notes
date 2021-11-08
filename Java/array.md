@@ -38,3 +38,16 @@ class array2d{
   }
 }
 ```
+
+<h2>Arrays.toString</h2>
+
+```java
+import java.util.*;
+class array2d{
+  public static void main(String [] args){
+    
+    int[] arr = new int[5];
+    System.out.println(Arrays.toString(arr));
+  }
+}
+```
