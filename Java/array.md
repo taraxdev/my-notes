@@ -51,3 +51,25 @@ class array2d{
   }
 }
 ```
+
+<h2>Basic 2-Dimensional Array</h2>
+
+```
+class array2d{
+  public static void main(String [] args){
+
+    int[][] arr ={
+      {12,14,33},
+      {32,34,54},
+      {23,34,43}};
+
+      for(int row=0; row<arr.length; row++){
+        for(int col=0; col<arr.length; col++){
+          System.out.print(arr[row][col]+" ");
+        }
+        System.out.println();
+      }
+  }
+}
+
+```
