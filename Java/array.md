@@ -54,7 +54,7 @@ class array2d{
 
 <h2>Basic 2-Dimensional Array</h2>
 
-```
+```java
 class array2d{
   public static void main(String [] args){
 
