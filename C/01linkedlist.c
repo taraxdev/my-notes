@@ -1,0 +1,37 @@
+// A simple C program for traversal of a linked list
+
+#include<stdio.h>
+#include<stdlib.h>
+
+struct Node {
+    int data;
+    struct Node* next;
+};
+
+void printList(struct Node* n){
+    while(n!= NULL){
+        printf("%d->", n->data);
+        n = n->next;
+    }
+}
+
+int main(){
+    struct Node* head = NULL;
+    struct Node* second = NULL;
+    struct Node* tail = NULL;
+
+    head = (struct Node*)malloc(sizeof(struct Node));
+    second = (struct Node*)malloc(sizeof(struct Node));
+    tail = (struct Node*)malloc(sizeof(struct Node));
+
+    head->data = 1;
+    head->next = second;
+
+    second->data = 3;
+    second->next = tail;
+
+    tail->data = 4;
+    tail->next = NULL;
+
+    printList(head);
+}
