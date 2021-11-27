@@ -133,3 +133,57 @@ void main(){
     display(head);
 }
 ```
+
+<h3> Insertion in linked list taking user input</h3>
+
+
+```c
+#include<stdio.h>
+#include<stdlib.h>
+
+struct Node *new,*head,*newnode;
+struct Node{
+    int data;
+    struct Node* next;
+};
+
+void insert_beg() // insertion at beginning
+{
+    int value;
+    new=(struct Node*)malloc(sizeof(struct Node));
+    printf("Enter the value to insert at beginning:");
+    scanf("%d",&value);
+    new->data=value;
+    new->next=NULL;
+    
+    if(head==NULL){
+            head=new;
+        }else{
+            new->next=head;
+            head=new;
+        }
+}
+
+void display(){
+    if(head==NULL){
+        printf("empty");
+    }else{
+        newnode=head;
+        while(newnode!=NULL){
+            printf("%d->",newnode->data);
+            newnode=newnode->next;
+        }
+}
+
+}
+void main(){
+    int n,i;
+    printf("Enter the limit:");
+    scanf("%d",&n);
+    for(i=1;i<=n;i++)
+    {
+        insert_beg();
+    }
+        display(newnode);
+}
+```
